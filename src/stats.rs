@@ -72,7 +72,7 @@ pub fn process_languages(
         })
         .collect();
 
-    entries.sort_by(|a, b| b.stats.code.cmp(&a.stats.code));
+    entries.sort_by_key(|entry| std::cmp::Reverse(entry.stats.code));
 
     if entries.len() > max_rows {
         let remaining = entries.split_off(max_rows - 1);

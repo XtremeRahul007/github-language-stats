@@ -7,6 +7,7 @@ mod config;
 mod readme;
 mod stats;
 mod svg;
+mod tests;
 
 fn main() -> Result<(), Box<dyn Error>> {
     let config = config::Config::parse();
