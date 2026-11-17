@@ -1,4 +1,6 @@
-use std::{fs, path::Path};
+use std::{error::Error, fs, path::Path};
+
+use clap::Parser;
 
 mod cloc;
 mod config;
@@ -6,19 +8,27 @@ mod readme;
 mod stats;
 mod svg;
 
-fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let json = fs::read_to_string("stats.json")?;
+fn main() -> Result<(), Box<dyn Error>> {
+    let config = config::Config::parse();
 
+    let json = fs::read_to_string(&config.input)?;
     let stats = stats::parse_cloc_json(&json)?;
 
-    let languages = stats::process_languages(stats.languages, 8);
+    let languages = stats::process_languages(stats.languages, config.max_rows);
 
     let svg = svg::render_svg(&languages);
 
-    readme::update_readme(Path::new("README.md"), "docs/language-stats.svg")?;
+    let output_path = Path::new(&config.output);
 
-    fs::create_dir_all("docs")?;
-    fs::write("docs/language-stats.svg", svg)?;
+    if let Some(parent) = output_path.parent() {
+        fs::create_dir_all(parent)?;
+    }
+
+    fs::write(output_path, svg)?;
+
+    readme::update_readme(Path::new(&config.readme), &config.output)?;
+
+    println!("Language statistics updated successfully!");
 
     Ok(())
 }
