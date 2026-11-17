@@ -41,7 +41,10 @@ pub fn update_readme(path: &Path, image_path: &str) -> Result<()> {
         &content[end + END.len()..]
     );
 
-    fs::write(path, updated)?;
+    let temp_path = path.with_extension("tmp");
+
+    fs::write(&temp_path, updated)?;
+    fs::rename(&temp_path, path)?;
 
     Ok(())
 }

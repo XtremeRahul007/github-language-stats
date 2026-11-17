@@ -1,3 +1,2 @@
-target
-
-stats.json
+/target/
+/stats.json
