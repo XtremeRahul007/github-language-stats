@@ -2,6 +2,10 @@
 
 A lightweight Rust CLI tool that generates language statistics SVG charts from [cloc](https://github.com/AlDanial/cloc) output and optionally updates your repository's README.
 
+<!-- LANG_STATS_START -->
+<p align="center"><img src="docs/language-stats.svg" alt="Language breakdown" width="480"></p>
+<!-- LANG_STATS_END -->
+
 ## Features
 
 - Generate SVG language statistics charts.
@@ -51,28 +55,32 @@ github-language-stats --input stats.json
 
 ### Available options
 
-| Option | Default | Description |
-|---|---|---|
-| `--input` | `stats.json` | Input cloc JSON file; use `-` to run cloc |
-| `--output` | `docs/language-stats.svg` | Generated SVG path |
-| `--readme` | `README.md` | README file to update |
-| `--max-rows` | `8` | Maximum chart rows, including Other |
-| `--exclude-dir` | None | Comma-separated directories to exclude |
-| `--exclude-lang` | None | Comma-separated languages to exclude |
-| `--help` | — | Display help |
-| `--version` | — | Display version |
+| Option           | Default                   | Description                               |
+| ---------------- | ------------------------- | ----------------------------------------- |
+| `--input`        | `stats.json`              | Input cloc JSON file; use `-` to run cloc |
+| `--output`       | `docs/language-stats.svg` | Generated SVG path                        |
+| `--readme`       | `README.md`               | README file to update                     |
+| `--max-rows`     | `8`                       | Maximum chart rows, including Other       |
+| `--exclude-dir`  | None                      | Comma-separated directories to exclude    |
+| `--exclude-lang` | None                      | Comma-separated languages to exclude      |
+| `--help`         | —                         | Display help                              |
+| `--version`      | —                         | Display version                           |
 
 ## README Integration
 
-Add these markers wherever you want the chart to appear:
+You can automatically display the generated language statistics in your repository's README.
 
-```html
-<!-- LANG_STATS_START -->
-<p align="center"><img src="docs/language-stats.svg" alt="Language breakdown" width="480"></p>
-<!-- LANG_STATS_END -->
-```
+1. Add the following marker pair to your `README.md`, exactly where you want the chart to appear:
 
-The application replaces the content between these markers with the generated SVG image reference.
+   ```html
+   &lt;!-- LANG_STATS_START --&gt; &lt;!-- LANG_STATS_END --&gt;
+   ```
+
+2. The tool replaces the content between these markers with the generated SVG image.
+
+3. Configure the output path using `--output` and provide your README path using `--readme`.
+
+**Important:** Keep exactly one start marker and one end marker in your README. Place them outside Markdown code blocks so the generated image renders correctly.
 
 ## GitHub Actions
 
