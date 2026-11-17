@@ -37,7 +37,7 @@ jobs:
 
       - name: Generate language statistics
         run: |
-          cargo run --release --manifest-path .github/scripts/Cargo.toml -- \
+          cargo run --release -- \
             --input - \
             --exclude-dir=node_modules,target,dist,build,.git,.github,.venv,venv,coverage,pkg,samples \
             --exclude-lang=JSON,Markdown,TOML,SVG \
