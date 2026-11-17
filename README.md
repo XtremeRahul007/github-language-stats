@@ -96,43 +96,57 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "README.md"
+      - "docs/language-stats.svg"
+
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: language-statistics
+  cancel-in-progress: true
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - uses: dtolnay/rust-toolchain@stable
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
 
       - name: Install cloc
         run: |
           sudo apt-get update
           sudo apt-get install -y cloc
 
-      - name: Generate statistics
+      - name: Generate language statistics
         run: |
           cargo run --release -- \
             --input - \
-            --exclude-dir=node_modules,target,dist,build,.git,.github \
+            --exclude-dir=node_modules,target,dist,build,.git,.github,.venv,venv,coverage,pkg \
             --exclude-lang=JSON,Markdown,TOML,SVG \
             --output docs/language-stats.svg \
             --readme README.md \
             --max-rows 8
 
-      - name: Commit changes
+      - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add README.md docs/language-stats.svg
 
-          if ! git diff --cached --quiet; then
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
             git commit -m "chore: update language statistics"
             git push
           fi

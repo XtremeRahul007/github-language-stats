@@ -3,6 +3,7 @@ use std::{error::Error, fs, path::Path};
 use clap::Parser;
 
 mod cloc;
+mod colors;
 mod config;
 mod readme;
 mod stats;
@@ -26,7 +27,10 @@ fn main() -> Result<(), Box<dyn Error>> {
 
     let output_path = Path::new(&config.output);
 
-    if let Some(parent) = output_path.parent() {
+    if let Some(parent) = output_path
+        .parent()
+        .filter(|path| !path.as_os_str().is_empty())
+    {
         fs::create_dir_all(parent)?;
     }
 

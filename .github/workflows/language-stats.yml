@@ -7,10 +7,15 @@ on:
     paths-ignore:
       - 'README.md'
       - 'docs/language-stats.svg'
+
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: language-statistics
+  cancel-in-progress: true
 
 jobs:
   update-stats:
@@ -19,6 +24,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Install Rust
         uses: dtolnay/rust-toolchain@stable
@@ -32,7 +39,7 @@ jobs:
         run: |
           cargo run --release -- \
             --input - \
-            --exclude-dir=node_modules,target,dist,build,.git,.github,.venv,venv,coverage,pkg,samples \
+            --exclude-dir=node_modules,target,dist,build,.git,.github,.venv,venv,coverage,pkg \
             --exclude-lang=JSON,Markdown,TOML,SVG \
             --output docs/language-stats.svg \
             --readme README.md \
