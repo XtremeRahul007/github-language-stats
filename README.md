@@ -73,7 +73,8 @@ You can automatically display the generated language statistics in your reposito
 1. Add the following marker pair to your `README.md`, exactly where you want the chart to appear:
 
    ```html
-   &lt;!-- LANG_STATS_START --&gt; &lt;!-- LANG_STATS_END --&gt;
+   <!-- LANG_STATS_START -->
+   <!-- LANG_STATS_END -->
    ```
 
 2. The tool replaces the content between these markers with the generated SVG image.
