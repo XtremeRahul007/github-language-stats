@@ -1,4 +1,4 @@
-use std::fs;
+use std::{fs, path::Path};
 
 mod cloc;
 mod config;
@@ -13,6 +13,12 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     let languages = stats::process_languages(stats.languages, 8);
 
-    println!("{languages:#?}");
+    let svg = svg::render_svg(&languages);
+
+    readme::update_readme(Path::new("README.md"), "docs/language-stats.svg")?;
+
+    fs::create_dir_all("docs")?;
+    fs::write("docs/language-stats.svg", svg)?;
+
     Ok(())
 }
