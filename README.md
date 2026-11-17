@@ -168,7 +168,13 @@ Check formatting and linting:
 cargo fmt --check
 cargo clippy -- -D warnings
 ```
-## Samples
+
+## Example
+
+<p align="center"><img src="docs/example.svg" alt="Language breakdown" width="480"></p>
+
+## Sample
+
 75 languages supported
 <p align="center"><img src="docs/sample.svg" alt="Language breakdown" width="480"></p>
 
