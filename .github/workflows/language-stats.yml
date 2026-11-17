@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'README.md'
+      - 'docs/language-stats.svg'
   workflow_dispatch:
 
 permissions:
