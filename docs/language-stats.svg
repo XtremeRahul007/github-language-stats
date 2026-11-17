@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="116" viewBox="0 0 480 116"><rect width="480" height="116" fill="{#0d1117}"/><style>
+            .name { fill: #e6edf3; font-size: 13px; font-weight: 600; }
+            .muted { fill: #8b949e; font-size: 12px; }
+            .track { fill: #30363d; }
+        </style><text x="20" y="60" class="name">Rust</text><rect x="135" y="50" width="205" height="10" rx="5" class="track"/><rect x="135" y="50" width="205.00" height="10" rx="5" fill="{#58a6ff}"/><text x="352" y="60" class="muted">100.0%</text><text x="405" y="60" class="muted">371</text></svg>
