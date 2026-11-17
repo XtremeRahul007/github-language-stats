@@ -1,4 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="212" viewBox="0 0 480 212"><rect width="480" height="212" rx="8" fill="#0d1117"/><style>
+            text {
+                font-family: Inter, -apple-system, BlinkMacSystemFont,
+                             "Segoe UI", sans-serif;
+            }
+
             .title {
                 fill: #e6edf3;
                 font-size: 17px;
@@ -7,19 +12,20 @@
 
             .name {
                 fill: #e6edf3;
-                font-size: 12px;
+                font-size: 13px;
                 font-weight: 600;
             }
 
             .muted {
                 fill: #8b949e;
-                font-size: 11px;
+                font-size: 12px;
+                font-weight: 400;
             }
 
             .track {
                 fill: #30363d;
             }
-        </style><text x="20" y="32" class="title">Language Statistics</text><text x="20" y="52" class="muted">Breakdown by source code</text><text x="460" y="32" text-anchor="end" class="muted">736 lines</text><defs>
+        </style><text x="20" y="32" class="title">Language Statistics</text><text x="20" y="52" class="muted">Breakdown by source code</text><text x="460" y="32" text-anchor="end" class="muted">752 lines</text><defs>
             <clipPath id="stacked-bar-clip">
                 <rect
                     x="20"
@@ -32,13 +38,13 @@
         </defs><g clip-path="url(#stacked-bar-clip)"><rect
                     x="20.00"
                     y="85"
-                    width="411.30"
+                    width="411.91"
                     height="12"
                     fill="#dea584"
                 /><rect
-                    x="431.30"
+                    x="431.91"
                     y="85"
-                    width="28.70"
+                    width="28.09"
                     height="12"
                     fill="#cb171e"
                 /></g><rect
@@ -56,7 +62,12 @@
                     y2="132"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="120" class="name"><title>Rust</title>Rust</text><rect x="145" y="110" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="116"
+                r="4"
+                fill="#dea584"
+            /><text x="34" y="120" class="name"><title>Rust</title>Rust</text><rect x="145" y="110" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-0">
                     <rect
                         x="145"
@@ -70,11 +81,16 @@
             <rect
                 x="145"
                 y="110"
-                width="154.24"
+                width="154.47"
                 height="10"
                 fill="#dea584"
                 clip-path="url(#language-bar-clip-0)"
-            /><text x="325" y="120" class="muted">93.5%</text><text x="460" y="120" text-anchor="end" class="muted">688 lines</text><text x="20" y="156" class="name"><title>YAML</title>YAML</text><rect x="145" y="146" width="165" height="10" rx="5" class="track"/><defs>
+            /><text x="325" y="120" class="name">93.6%</text><text x="460" y="120" text-anchor="end" class="muted">704 lines</text><circle
+                cx="24"
+                cy="152"
+                r="4"
+                fill="#cb171e"
+            /><text x="34" y="156" class="name"><title>YAML</title>YAML</text><rect x="145" y="146" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-1">
                     <rect
                         x="145"
@@ -88,8 +104,8 @@
             <rect
                 x="145"
                 y="146"
-                width="10.76"
+                width="10.53"
                 height="10"
                 fill="#cb171e"
                 clip-path="url(#language-bar-clip-1)"
-            /><text x="325" y="156" class="muted">6.5%</text><text x="460" y="156" text-anchor="end" class="muted">48 lines</text></svg>
+            /><text x="325" y="156" class="name">6.4%</text><text x="460" y="156" text-anchor="end" class="muted">48 lines</text></svg>

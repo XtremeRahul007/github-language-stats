@@ -43,6 +43,11 @@ pub fn render_svg(entries: &[LanguageEntry]) -> String {
     // Styles
     svg.push_str(
         r#"<style>
+            text {
+                font-family: Inter, -apple-system, BlinkMacSystemFont,
+                             "Segoe UI", sans-serif;
+            }
+
             .title {
                 fill: #e6edf3;
                 font-size: 17px;
@@ -51,13 +56,14 @@ pub fn render_svg(entries: &[LanguageEntry]) -> String {
 
             .name {
                 fill: #e6edf3;
-                font-size: 12px;
+                font-size: 13px;
                 font-weight: 600;
             }
 
             .muted {
                 fill: #8b949e;
-                font-size: 11px;
+                font-size: 12px;
+                font-weight: 400;
             }
 
             .track {
@@ -122,9 +128,22 @@ pub fn render_svg(entries: &[LanguageEntry]) -> String {
             ));
         }
 
+        // Language color indicator
+        svg.push_str(&format!(
+            r#"<circle
+                cx="{}"
+                cy="{}"
+                r="4"
+                fill="{color}"
+            />"#,
+            PADDING + 4,
+            y - 4
+        ));
+
         // Language name
         svg.push_str(&format!(
-            r#"<text x="{PADDING}" y="{y}" class="name"><title>{}</title>{escaped_name}</text>"#,
+            r#"<text x="{}" y="{y}" class="name"><title>{}</title>{escaped_name}</text>"#,
+            PADDING + 14,
             escape_xml(&entry.name)
         ));
 
@@ -161,7 +180,7 @@ pub fn render_svg(entries: &[LanguageEntry]) -> String {
 
         // Percentage
         svg.push_str(&format!(
-            r#"<text x="{PERCENTAGE_X}" y="{y}" class="muted">{percentage:.1}%</text>"#
+            r#"<text x="{PERCENTAGE_X}" y="{y}" class="name">{percentage:.1}%</text>"#
         ));
 
         // Code count
