@@ -1,4 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="2696" viewBox="0 0 480 2696"><rect width="480" height="2696" rx="8" fill="#0d1117"/><style>
+            text {
+                font-family: Inter, -apple-system, BlinkMacSystemFont,
+                             "Segoe UI", sans-serif;
+            }
+
             .title {
                 fill: #e6edf3;
                 font-size: 17px;
@@ -7,13 +12,14 @@
 
             .name {
                 fill: #e6edf3;
-                font-size: 12px;
+                font-size: 13px;
                 font-weight: 600;
             }
 
             .muted {
                 fill: #8b949e;
-                font-size: 11px;
+                font-size: 12px;
+                font-weight: 400;
             }
 
             .track {
@@ -64,13 +70,13 @@
                     y="85"
                     width="12.94"
                     height="12"
-                    fill="#945db7"
+                    fill="#e34c26"
                 /><rect
                     x="139.06"
                     y="85"
                     width="12.94"
                     height="12"
-                    fill="#e34c26"
+                    fill="#02f88c"
                 /><rect
                     x="152.00"
                     y="85"
@@ -82,7 +88,7 @@
                     y="85"
                     width="12.94"
                     height="12"
-                    fill="#02f88c"
+                    fill="#945db7"
                 /><rect
                     x="177.88"
                     y="85"
@@ -106,7 +112,7 @@
                     y="85"
                     width="7.76"
                     height="12"
-                    fill="#4d41b1"
+                    fill="#355570"
                 /><rect
                     x="216.71"
                     y="85"
@@ -118,67 +124,67 @@
                     y="85"
                     width="7.76"
                     height="12"
-                    fill="#df7900"
+                    fill="#4d41b1"
                 /><rect
                     x="232.24"
                     y="85"
                     width="7.76"
                     height="12"
-                    fill="#B83998"
+                    fill="#64b970"
                 /><rect
                     x="240.00"
                     y="85"
                     width="7.76"
                     height="12"
-                    fill="#64b970"
+                    fill="#df7900"
                 /><rect
                     x="247.76"
                     y="85"
                     width="7.76"
                     height="12"
-                    fill="#00ADD8"
+                    fill="#B83998"
                 /><rect
                     x="255.53"
                     y="85"
                     width="7.76"
                     height="12"
-                    fill="#5686a5"
+                    fill="#00ADD8"
                 /><rect
                     x="263.29"
                     y="85"
                     width="7.76"
                     height="12"
-                    fill="#b07219"
+                    fill="#5686a5"
                 /><rect
                     x="271.06"
                     y="85"
                     width="7.76"
                     height="12"
-                    fill="#3A4E3A"
+                    fill="#945db7"
                 /><rect
                     x="278.82"
                     y="85"
                     width="7.76"
                     height="12"
-                    fill="#945db7"
+                    fill="#3A4E3A"
                 /><rect
                     x="286.59"
                     y="85"
                     width="7.76"
                     height="12"
-                    fill="#355570"
+                    fill="#b07219"
                 /><rect
                     x="294.35"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#3c5caa"
+                    fill="#3178c6"
                 /><rect
                     x="299.53"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#555555"
+                    fill="#D97706"
                 /><rect
                     x="304.71"
                     y="85"
@@ -190,229 +196,229 @@
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#1e4aec"
+                    fill="#f34b7d"
                 /><rect
                     x="315.06"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#384d54"
+                    fill="#ba595e"
                 /><rect
                     x="320.24"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#438eff"
+                    fill="#3c5caa"
                 /><rect
                     x="325.41"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#3178c6"
+                    fill="#555555"
                 /><rect
                     x="330.59"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#89e051"
+                    fill="#4F5D95"
                 /><rect
                     x="335.76"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#74283c"
+                    fill="#89e051"
                 /><rect
                     x="340.94"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#ba595e"
+                    fill="#438eff"
                 /><rect
                     x="346.12"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#f34b7d"
+                    fill="#427819"
                 /><rect
                     x="351.29"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#5e5086"
+                    fill="#384d54"
                 /><rect
                     x="356.47"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#427819"
+                    fill="#5e5086"
                 /><rect
                     x="361.65"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#D97706"
+                    fill="#178600"
                 /><rect
                     x="366.82"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#178600"
+                    fill="#74283c"
                 /><rect
                     x="372.00"
                     y="85"
                     width="5.18"
                     height="12"
-                    fill="#4F5D95"
+                    fill="#1e4aec"
                 /><rect
                     x="377.18"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#e16737"
+                    fill="#c30e9b"
                 /><rect
                     x="379.76"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#0298c3"
+                    fill="#F05138"
                 /><rect
                     x="382.35"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#b845fc"
+                    fill="#ffc200"
                 /><rect
                     x="384.94"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#885AEA"
+                    fill="#00B4AB"
                 /><rect
                     x="387.53"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#a56de2"
+                    fill="#b845fc"
                 /><rect
                     x="390.12"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#701516"
+                    fill="#ef7a08"
                 /><rect
                     x="392.71"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#A97BFF"
+                    fill="#a56de2"
                 /><rect
                     x="395.29"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#c22d40"
+                    fill="#e16737"
                 /><rect
                     x="397.88"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#8847B9"
+                    fill="#b845fc"
                 /><rect
                     x="400.47"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#244776"
+                    fill="#885AEA"
                 /><rect
                     x="403.06"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#5A8164"
+                    fill="#4298b8"
                 /><rect
                     x="405.65"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#db5855"
+                    fill="#3fb68b"
                 /><rect
                     x="408.24"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#00B4AB"
+                    fill="#dea584"
                 /><rect
                     x="410.82"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#2F2530"
+                    fill="#f1e05a"
                 /><rect
                     x="413.41"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#012456"
+                    fill="#e38c00"
                 /><rect
                     x="416.00"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#c30e9b"
+                    fill="#d90e09"
                 /><rect
                     x="418.59"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#ef7a08"
+                    fill="#2F2530"
                 /><rect
                     x="421.18"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#f1e05a"
+                    fill="#0298c3"
                 /><rect
                     x="423.76"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#198ce7"
+                    fill="#db5855"
                 /><rect
                     x="426.35"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#dea584"
+                    fill="#A97BFF"
                 /><rect
                     x="428.94"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#3fb68b"
+                    fill="#e4cc98"
                 /><rect
                     x="431.53"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#ff5847"
+                    fill="#198ce7"
                 /><rect
                     x="434.12"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#e4cc98"
+                    fill="#012456"
                 /><rect
                     x="436.71"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#d90e09"
+                    fill="#5A8164"
                 /><rect
                     x="439.29"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#F05138"
+                    fill="#b2b7f8"
                 /><rect
                     x="441.88"
                     y="85"
@@ -424,37 +430,37 @@
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#4298b8"
+                    fill="#ff5847"
                 /><rect
                     x="447.06"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#b845fc"
+                    fill="#8847B9"
                 /><rect
                     x="449.65"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#ffc200"
+                    fill="#a270ba"
                 /><rect
                     x="452.24"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#e38c00"
+                    fill="#244776"
                 /><rect
                     x="454.82"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#b2b7f8"
+                    fill="#701516"
                 /><rect
                     x="457.41"
                     y="85"
                     width="2.59"
                     height="12"
-                    fill="#a270ba"
+                    fill="#c22d40"
                 /></g><rect
             x="20"
             y="85"
@@ -470,7 +476,12 @@
                     y2="132"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="120" class="name"><title>Assembly</title>Assembly</text><rect x="145" y="110" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="116"
+                r="4"
+                fill="#6E4C13"
+            /><text x="34" y="120" class="name"><title>Assembly</title>Assembly</text><rect x="145" y="110" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-0">
                     <rect
                         x="145"
@@ -488,14 +499,19 @@
                 height="10"
                 fill="#6E4C13"
                 clip-path="url(#language-bar-clip-0)"
-            /><text x="325" y="120" class="muted">8.2%</text><text x="460" y="120" text-anchor="end" class="muted">14 lines</text><line
+            /><text x="325" y="120" class="name">8.2%</text><text x="460" y="120" text-anchor="end" class="muted">14 lines</text><line
                     x1="20"
                     y1="168"
                     x2="460"
                     y2="168"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="156" class="name"><title>Pascal</title>Pascal</text><rect x="145" y="146" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="152"
+                r="4"
+                fill="#E3F171"
+            /><text x="34" y="156" class="name"><title>Pascal</title>Pascal</text><rect x="145" y="146" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-1">
                     <rect
                         x="145"
@@ -513,14 +529,19 @@
                 height="10"
                 fill="#E3F171"
                 clip-path="url(#language-bar-clip-1)"
-            /><text x="325" y="156" class="muted">5.3%</text><text x="460" y="156" text-anchor="end" class="muted">9 lines</text><line
+            /><text x="325" y="156" class="name">5.3%</text><text x="460" y="156" text-anchor="end" class="muted">9 lines</text><line
                     x1="20"
                     y1="204"
                     x2="460"
                     y2="204"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="192" class="name"><title>YAML</title>YAML</text><rect x="145" y="182" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="188"
+                r="4"
+                fill="#cb171e"
+            /><text x="34" y="192" class="name"><title>YAML</title>YAML</text><rect x="145" y="182" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-2">
                     <rect
                         x="145"
@@ -538,14 +559,19 @@
                 height="10"
                 fill="#cb171e"
                 clip-path="url(#language-bar-clip-2)"
-            /><text x="325" y="192" class="muted">4.1%</text><text x="460" y="192" text-anchor="end" class="muted">7 lines</text><line
+            /><text x="325" y="192" class="name">4.1%</text><text x="460" y="192" text-anchor="end" class="muted">7 lines</text><line
                     x1="20"
                     y1="240"
                     x2="460"
                     y2="240"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="228" class="name"><title>Solidity</title>Solidity</text><rect x="145" y="218" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="224"
+                r="4"
+                fill="#AA6746"
+            /><text x="34" y="228" class="name"><title>Solidity</title>Solidity</text><rect x="145" y="218" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-3">
                     <rect
                         x="145"
@@ -563,14 +589,19 @@
                 height="10"
                 fill="#AA6746"
                 clip-path="url(#language-bar-clip-3)"
-            /><text x="325" y="228" class="muted">3.5%</text><text x="460" y="228" text-anchor="end" class="muted">6 lines</text><line
+            /><text x="325" y="228" class="name">3.5%</text><text x="460" y="228" text-anchor="end" class="muted">6 lines</text><line
                     x1="20"
                     y1="276"
                     x2="460"
                     y2="276"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="264" class="name"><title>WebAssembly</title>WebAssembly</text><rect x="145" y="254" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="260"
+                r="4"
+                fill="#04133b"
+            /><text x="34" y="264" class="name"><title>WebAssembly</title>WebAssembly</text><rect x="145" y="254" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-4">
                     <rect
                         x="145"
@@ -588,14 +619,19 @@
                 height="10"
                 fill="#04133b"
                 clip-path="url(#language-bar-clip-4)"
-            /><text x="325" y="264" class="muted">2.9%</text><text x="460" y="264" text-anchor="end" class="muted">5 lines</text><line
+            /><text x="325" y="264" class="name">2.9%</text><text x="460" y="264" text-anchor="end" class="muted">5 lines</text><line
                     x1="20"
                     y1="312"
                     x2="460"
                     y2="312"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="300" class="name"><title>Visual Basic .NET</title>Visual Basic .NE…</text><rect x="145" y="290" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="296"
+                r="4"
+                fill="#e34c26"
+            /><text x="34" y="300" class="name"><title>HTML</title>HTML</text><rect x="145" y="290" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-5">
                     <rect
                         x="145"
@@ -611,16 +647,21 @@
                 y="290"
                 width="4.85"
                 height="10"
-                fill="#945db7"
+                fill="#e34c26"
                 clip-path="url(#language-bar-clip-5)"
-            /><text x="325" y="300" class="muted">2.9%</text><text x="460" y="300" text-anchor="end" class="muted">5 lines</text><line
+            /><text x="325" y="300" class="name">2.9%</text><text x="460" y="300" text-anchor="end" class="muted">5 lines</text><line
                     x1="20"
                     y1="348"
                     x2="460"
                     y2="348"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="336" class="name"><title>HTML</title>HTML</text><rect x="145" y="326" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="332"
+                r="4"
+                fill="#02f88c"
+            /><text x="34" y="336" class="name"><title>Ada</title>Ada</text><rect x="145" y="326" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-6">
                     <rect
                         x="145"
@@ -636,16 +677,21 @@
                 y="326"
                 width="4.85"
                 height="10"
-                fill="#e34c26"
+                fill="#02f88c"
                 clip-path="url(#language-bar-clip-6)"
-            /><text x="325" y="336" class="muted">2.9%</text><text x="460" y="336" text-anchor="end" class="muted">5 lines</text><line
+            /><text x="325" y="336" class="name">2.9%</text><text x="460" y="336" text-anchor="end" class="muted">5 lines</text><line
                     x1="20"
                     y1="384"
                     x2="460"
                     y2="384"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="372" class="name"><title>COBOL</title>COBOL</text><rect x="145" y="362" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="368"
+                r="4"
+                fill="#005ca5"
+            /><text x="34" y="372" class="name"><title>COBOL</title>COBOL</text><rect x="145" y="362" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-7">
                     <rect
                         x="145"
@@ -663,14 +709,19 @@
                 height="10"
                 fill="#005ca5"
                 clip-path="url(#language-bar-clip-7)"
-            /><text x="325" y="372" class="muted">2.9%</text><text x="460" y="372" text-anchor="end" class="muted">5 lines</text><line
+            /><text x="325" y="372" class="name">2.9%</text><text x="460" y="372" text-anchor="end" class="muted">5 lines</text><line
                     x1="20"
                     y1="420"
                     x2="460"
                     y2="420"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="408" class="name"><title>Ada</title>Ada</text><rect x="145" y="398" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="404"
+                r="4"
+                fill="#945db7"
+            /><text x="34" y="408" class="name"><title>Visual Basic .NET</title>Visual Basic .NE…</text><rect x="145" y="398" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-8">
                     <rect
                         x="145"
@@ -686,16 +737,21 @@
                 y="398"
                 width="4.85"
                 height="10"
-                fill="#02f88c"
+                fill="#945db7"
                 clip-path="url(#language-bar-clip-8)"
-            /><text x="325" y="408" class="muted">2.9%</text><text x="460" y="408" text-anchor="end" class="muted">5 lines</text><line
+            /><text x="325" y="408" class="name">2.9%</text><text x="460" y="408" text-anchor="end" class="muted">5 lines</text><line
                     x1="20"
                     y1="456"
                     x2="460"
                     y2="456"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="444" class="name"><title>Elm</title>Elm</text><rect x="145" y="434" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="440"
+                r="4"
+                fill="#60B5CC"
+            /><text x="34" y="444" class="name"><title>Elm</title>Elm</text><rect x="145" y="434" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-9">
                     <rect
                         x="145"
@@ -713,14 +769,19 @@
                 height="10"
                 fill="#60B5CC"
                 clip-path="url(#language-bar-clip-9)"
-            /><text x="325" y="444" class="muted">2.4%</text><text x="460" y="444" text-anchor="end" class="muted">4 lines</text><line
+            /><text x="325" y="444" class="name">2.4%</text><text x="460" y="444" text-anchor="end" class="muted">4 lines</text><line
                     x1="20"
                     y1="492"
                     x2="460"
                     y2="492"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="480" class="name"><title>Zig</title>Zig</text><rect x="145" y="470" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="476"
+                r="4"
+                fill="#ec915c"
+            /><text x="34" y="480" class="name"><title>Zig</title>Zig</text><rect x="145" y="470" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-10">
                     <rect
                         x="145"
@@ -738,14 +799,19 @@
                 height="10"
                 fill="#ec915c"
                 clip-path="url(#language-bar-clip-10)"
-            /><text x="325" y="480" class="muted">2.4%</text><text x="460" y="480" text-anchor="end" class="muted">4 lines</text><line
+            /><text x="325" y="480" class="name">2.4%</text><text x="460" y="480" text-anchor="end" class="muted">4 lines</text><line
                     x1="20"
                     y1="528"
                     x2="460"
                     y2="528"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="516" class="name"><title>PureScript</title>PureScript</text><rect x="145" y="506" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="512"
+                r="4"
+                fill="#1D222D"
+            /><text x="34" y="516" class="name"><title>PureScript</title>PureScript</text><rect x="145" y="506" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-11">
                     <rect
                         x="145"
@@ -763,14 +829,19 @@
                 height="10"
                 fill="#1D222D"
                 clip-path="url(#language-bar-clip-11)"
-            /><text x="325" y="516" class="muted">2.4%</text><text x="460" y="516" text-anchor="end" class="muted">4 lines</text><line
+            /><text x="325" y="516" class="name">2.4%</text><text x="460" y="516" text-anchor="end" class="muted">4 lines</text><line
                     x1="20"
                     y1="564"
                     x2="460"
                     y2="564"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="552" class="name"><title>Fortran 90</title>Fortran 90</text><rect x="145" y="542" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="548"
+                r="4"
+                fill="#355570"
+            /><text x="34" y="552" class="name"><title>GDScript</title>GDScript</text><rect x="145" y="542" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-12">
                     <rect
                         x="145"
@@ -786,16 +857,21 @@
                 y="542"
                 width="2.91"
                 height="10"
-                fill="#4d41b1"
+                fill="#355570"
                 clip-path="url(#language-bar-clip-12)"
-            /><text x="325" y="552" class="muted">1.8%</text><text x="460" y="552" text-anchor="end" class="muted">3 lines</text><line
+            /><text x="325" y="552" class="name">1.8%</text><text x="460" y="552" text-anchor="end" class="muted">3 lines</text><line
                     x1="20"
                     y1="600"
                     x2="460"
                     y2="600"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="588" class="name"><title>JSX</title>JSX</text><rect x="145" y="578" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="584"
+                r="4"
+                fill="#f1e05a"
+            /><text x="34" y="588" class="name"><title>JSX</title>JSX</text><rect x="145" y="578" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-13">
                     <rect
                         x="145"
@@ -813,14 +889,19 @@
                 height="10"
                 fill="#f1e05a"
                 clip-path="url(#language-bar-clip-13)"
-            /><text x="325" y="588" class="muted">1.8%</text><text x="460" y="588" text-anchor="end" class="muted">3 lines</text><line
+            /><text x="325" y="588" class="name">1.8%</text><text x="460" y="588" text-anchor="end" class="muted">3 lines</text><line
                     x1="20"
                     y1="636"
                     x2="460"
                     y2="636"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="624" class="name"><title>Haxe</title>Haxe</text><rect x="145" y="614" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="620"
+                r="4"
+                fill="#4d41b1"
+            /><text x="34" y="624" class="name"><title>Fortran 90</title>Fortran 90</text><rect x="145" y="614" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-14">
                     <rect
                         x="145"
@@ -836,16 +917,21 @@
                 y="614"
                 width="2.91"
                 height="10"
-                fill="#df7900"
+                fill="#4d41b1"
                 clip-path="url(#language-bar-clip-14)"
-            /><text x="325" y="624" class="muted">1.8%</text><text x="460" y="624" text-anchor="end" class="muted">3 lines</text><line
+            /><text x="325" y="624" class="name">1.8%</text><text x="460" y="624" text-anchor="end" class="muted">3 lines</text><line
                     x1="20"
                     y1="672"
                     x2="460"
                     y2="672"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="660" class="name"><title>Erlang</title>Erlang</text><rect x="145" y="650" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="656"
+                r="4"
+                fill="#64b970"
+            /><text x="34" y="660" class="name"><title>sed</title>sed</text><rect x="145" y="650" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-15">
                     <rect
                         x="145"
@@ -861,16 +947,21 @@
                 y="650"
                 width="2.91"
                 height="10"
-                fill="#B83998"
+                fill="#64b970"
                 clip-path="url(#language-bar-clip-15)"
-            /><text x="325" y="660" class="muted">1.8%</text><text x="460" y="660" text-anchor="end" class="muted">3 lines</text><line
+            /><text x="325" y="660" class="name">1.8%</text><text x="460" y="660" text-anchor="end" class="muted">3 lines</text><line
                     x1="20"
                     y1="708"
                     x2="460"
                     y2="708"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="696" class="name"><title>sed</title>sed</text><rect x="145" y="686" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="692"
+                r="4"
+                fill="#df7900"
+            /><text x="34" y="696" class="name"><title>Haxe</title>Haxe</text><rect x="145" y="686" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-16">
                     <rect
                         x="145"
@@ -886,16 +977,21 @@
                 y="686"
                 width="2.91"
                 height="10"
-                fill="#64b970"
+                fill="#df7900"
                 clip-path="url(#language-bar-clip-16)"
-            /><text x="325" y="696" class="muted">1.8%</text><text x="460" y="696" text-anchor="end" class="muted">3 lines</text><line
+            /><text x="325" y="696" class="name">1.8%</text><text x="460" y="696" text-anchor="end" class="muted">3 lines</text><line
                     x1="20"
                     y1="744"
                     x2="460"
                     y2="744"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="732" class="name"><title>Go</title>Go</text><rect x="145" y="722" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="728"
+                r="4"
+                fill="#B83998"
+            /><text x="34" y="732" class="name"><title>Erlang</title>Erlang</text><rect x="145" y="722" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-17">
                     <rect
                         x="145"
@@ -911,16 +1007,21 @@
                 y="722"
                 width="2.91"
                 height="10"
-                fill="#00ADD8"
+                fill="#B83998"
                 clip-path="url(#language-bar-clip-17)"
-            /><text x="325" y="732" class="muted">1.8%</text><text x="460" y="732" text-anchor="end" class="muted">3 lines</text><line
+            /><text x="325" y="732" class="name">1.8%</text><text x="460" y="732" text-anchor="end" class="muted">3 lines</text><line
                     x1="20"
                     y1="780"
                     x2="460"
                     y2="780"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="768" class="name"><title>GLSL</title>GLSL</text><rect x="145" y="758" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="764"
+                r="4"
+                fill="#00ADD8"
+            /><text x="34" y="768" class="name"><title>Go</title>Go</text><rect x="145" y="758" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-18">
                     <rect
                         x="145"
@@ -936,16 +1037,21 @@
                 y="758"
                 width="2.91"
                 height="10"
-                fill="#5686a5"
+                fill="#00ADD8"
                 clip-path="url(#language-bar-clip-18)"
-            /><text x="325" y="768" class="muted">1.8%</text><text x="460" y="768" text-anchor="end" class="muted">3 lines</text><line
+            /><text x="325" y="768" class="name">1.8%</text><text x="460" y="768" text-anchor="end" class="muted">3 lines</text><line
                     x1="20"
                     y1="816"
                     x2="460"
                     y2="816"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="804" class="name"><title>Java</title>Java</text><rect x="145" y="794" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="800"
+                r="4"
+                fill="#5686a5"
+            /><text x="34" y="804" class="name"><title>GLSL</title>GLSL</text><rect x="145" y="794" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-19">
                     <rect
                         x="145"
@@ -961,16 +1067,21 @@
                 y="794"
                 width="2.91"
                 height="10"
-                fill="#b07219"
+                fill="#5686a5"
                 clip-path="url(#language-bar-clip-19)"
-            /><text x="325" y="804" class="muted">1.8%</text><text x="460" y="804" text-anchor="end" class="muted">3 lines</text><line
+            /><text x="325" y="804" class="name">1.8%</text><text x="460" y="804" text-anchor="end" class="muted">3 lines</text><line
                     x1="20"
                     y1="852"
                     x2="460"
                     y2="852"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="840" class="name"><title>CUDA</title>CUDA</text><rect x="145" y="830" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="836"
+                r="4"
+                fill="#945db7"
+            /><text x="34" y="840" class="name"><title>Visual Basic</title>Visual Basic</text><rect x="145" y="830" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-20">
                     <rect
                         x="145"
@@ -986,16 +1097,21 @@
                 y="830"
                 width="2.91"
                 height="10"
-                fill="#3A4E3A"
+                fill="#945db7"
                 clip-path="url(#language-bar-clip-20)"
-            /><text x="325" y="840" class="muted">1.8%</text><text x="460" y="840" text-anchor="end" class="muted">3 lines</text><line
+            /><text x="325" y="840" class="name">1.8%</text><text x="460" y="840" text-anchor="end" class="muted">3 lines</text><line
                     x1="20"
                     y1="888"
                     x2="460"
                     y2="888"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="876" class="name"><title>Visual Basic</title>Visual Basic</text><rect x="145" y="866" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="872"
+                r="4"
+                fill="#3A4E3A"
+            /><text x="34" y="876" class="name"><title>CUDA</title>CUDA</text><rect x="145" y="866" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-21">
                     <rect
                         x="145"
@@ -1011,16 +1127,21 @@
                 y="866"
                 width="2.91"
                 height="10"
-                fill="#945db7"
+                fill="#3A4E3A"
                 clip-path="url(#language-bar-clip-21)"
-            /><text x="325" y="876" class="muted">1.8%</text><text x="460" y="876" text-anchor="end" class="muted">3 lines</text><line
+            /><text x="325" y="876" class="name">1.8%</text><text x="460" y="876" text-anchor="end" class="muted">3 lines</text><line
                     x1="20"
                     y1="924"
                     x2="460"
                     y2="924"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="912" class="name"><title>GDScript</title>GDScript</text><rect x="145" y="902" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="908"
+                r="4"
+                fill="#b07219"
+            /><text x="34" y="912" class="name"><title>Java</title>Java</text><rect x="145" y="902" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-22">
                     <rect
                         x="145"
@@ -1036,16 +1157,21 @@
                 y="902"
                 width="2.91"
                 height="10"
-                fill="#355570"
+                fill="#b07219"
                 clip-path="url(#language-bar-clip-22)"
-            /><text x="325" y="912" class="muted">1.8%</text><text x="460" y="912" text-anchor="end" class="muted">3 lines</text><line
+            /><text x="325" y="912" class="name">1.8%</text><text x="460" y="912" text-anchor="end" class="muted">3 lines</text><line
                     x1="20"
                     y1="960"
                     x2="460"
                     y2="960"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="948" class="name"><title>Racket</title>Racket</text><rect x="145" y="938" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="944"
+                r="4"
+                fill="#3178c6"
+            /><text x="34" y="948" class="name"><title>TypeScript</title>TypeScript</text><rect x="145" y="938" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-23">
                     <rect
                         x="145"
@@ -1061,16 +1187,21 @@
                 y="938"
                 width="1.94"
                 height="10"
-                fill="#3c5caa"
+                fill="#3178c6"
                 clip-path="url(#language-bar-clip-23)"
-            /><text x="325" y="948" class="muted">1.2%</text><text x="460" y="948" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="948" class="name">1.2%</text><text x="460" y="948" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="996"
                     x2="460"
                     y2="996"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="984" class="name"><title>C</title>C</text><rect x="145" y="974" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="980"
+                r="4"
+                fill="#D97706"
+            /><text x="34" y="984" class="name"><title>zsh</title>zsh</text><rect x="145" y="974" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-24">
                     <rect
                         x="145"
@@ -1086,16 +1217,21 @@
                 y="974"
                 width="1.94"
                 height="10"
-                fill="#555555"
+                fill="#D97706"
                 clip-path="url(#language-bar-clip-24)"
-            /><text x="325" y="984" class="muted">1.2%</text><text x="460" y="984" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="984" class="name">1.2%</text><text x="460" y="984" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1032"
                     x2="460"
                     y2="1032"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1020" class="name"><title>DOS Batch</title>DOS Batch</text><rect x="145" y="1010" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1016"
+                r="4"
+                fill="#C1F12E"
+            /><text x="34" y="1020" class="name"><title>DOS Batch</title>DOS Batch</text><rect x="145" y="1010" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-25">
                     <rect
                         x="145"
@@ -1113,14 +1249,19 @@
                 height="10"
                 fill="#C1F12E"
                 clip-path="url(#language-bar-clip-25)"
-            /><text x="325" y="1020" class="muted">1.2%</text><text x="460" y="1020" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1020" class="name">1.2%</text><text x="460" y="1020" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1068"
                     x2="460"
                     y2="1068"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1056" class="name"><title>Scheme</title>Scheme</text><rect x="145" y="1046" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1052"
+                r="4"
+                fill="#f34b7d"
+            /><text x="34" y="1056" class="name"><title>C++</title>C++</text><rect x="145" y="1046" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-26">
                     <rect
                         x="145"
@@ -1136,16 +1277,21 @@
                 y="1046"
                 width="1.94"
                 height="10"
-                fill="#1e4aec"
+                fill="#f34b7d"
                 clip-path="url(#language-bar-clip-26)"
-            /><text x="325" y="1056" class="muted">1.2%</text><text x="460" y="1056" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1056" class="name">1.2%</text><text x="460" y="1056" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1104"
                     x2="460"
                     y2="1104"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1092" class="name"><title>Dockerfile</title>Dockerfile</text><rect x="145" y="1082" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1088"
+                r="4"
+                fill="#ba595e"
+            /><text x="34" y="1092" class="name"><title>D</title>D</text><rect x="145" y="1082" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-27">
                     <rect
                         x="145"
@@ -1161,16 +1307,21 @@
                 y="1082"
                 width="1.94"
                 height="10"
-                fill="#384d54"
+                fill="#ba595e"
                 clip-path="url(#language-bar-clip-27)"
-            /><text x="325" y="1092" class="muted">1.2%</text><text x="460" y="1092" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1092" class="name">1.2%</text><text x="460" y="1092" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1140"
                     x2="460"
                     y2="1140"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1128" class="name"><title>Objective-C</title>Objective-C</text><rect x="145" y="1118" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1124"
+                r="4"
+                fill="#3c5caa"
+            /><text x="34" y="1128" class="name"><title>Racket</title>Racket</text><rect x="145" y="1118" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-28">
                     <rect
                         x="145"
@@ -1186,16 +1337,21 @@
                 y="1118"
                 width="1.94"
                 height="10"
-                fill="#438eff"
+                fill="#3c5caa"
                 clip-path="url(#language-bar-clip-28)"
-            /><text x="325" y="1128" class="muted">1.2%</text><text x="460" y="1128" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1128" class="name">1.2%</text><text x="460" y="1128" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1176"
                     x2="460"
                     y2="1176"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1164" class="name"><title>TypeScript</title>TypeScript</text><rect x="145" y="1154" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1160"
+                r="4"
+                fill="#555555"
+            /><text x="34" y="1164" class="name"><title>C</title>C</text><rect x="145" y="1154" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-29">
                     <rect
                         x="145"
@@ -1211,16 +1367,21 @@
                 y="1154"
                 width="1.94"
                 height="10"
-                fill="#3178c6"
+                fill="#555555"
                 clip-path="url(#language-bar-clip-29)"
-            /><text x="325" y="1164" class="muted">1.2%</text><text x="460" y="1164" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1164" class="name">1.2%</text><text x="460" y="1164" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1212"
                     x2="460"
                     y2="1212"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1200" class="name"><title>Bourne Shell</title>Bourne Shell</text><rect x="145" y="1190" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1196"
+                r="4"
+                fill="#4F5D95"
+            /><text x="34" y="1200" class="name"><title>PHP</title>PHP</text><rect x="145" y="1190" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-30">
                     <rect
                         x="145"
@@ -1236,16 +1397,21 @@
                 y="1190"
                 width="1.94"
                 height="10"
-                fill="#89e051"
+                fill="#4F5D95"
                 clip-path="url(#language-bar-clip-30)"
-            /><text x="325" y="1200" class="muted">1.2%</text><text x="460" y="1200" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1200" class="name">1.2%</text><text x="460" y="1200" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1248"
                     x2="460"
                     y2="1248"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1236" class="name"><title>Prolog</title>Prolog</text><rect x="145" y="1226" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1232"
+                r="4"
+                fill="#89e051"
+            /><text x="34" y="1236" class="name"><title>Bourne Shell</title>Bourne Shell</text><rect x="145" y="1226" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-31">
                     <rect
                         x="145"
@@ -1261,16 +1427,21 @@
                 y="1226"
                 width="1.94"
                 height="10"
-                fill="#74283c"
+                fill="#89e051"
                 clip-path="url(#language-bar-clip-31)"
-            /><text x="325" y="1236" class="muted">1.2%</text><text x="460" y="1236" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1236" class="name">1.2%</text><text x="460" y="1236" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1284"
                     x2="460"
                     y2="1284"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1272" class="name"><title>D</title>D</text><rect x="145" y="1262" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1268"
+                r="4"
+                fill="#438eff"
+            /><text x="34" y="1272" class="name"><title>Objective-C</title>Objective-C</text><rect x="145" y="1262" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-32">
                     <rect
                         x="145"
@@ -1286,16 +1457,21 @@
                 y="1262"
                 width="1.94"
                 height="10"
-                fill="#ba595e"
+                fill="#438eff"
                 clip-path="url(#language-bar-clip-32)"
-            /><text x="325" y="1272" class="muted">1.2%</text><text x="460" y="1272" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1272" class="name">1.2%</text><text x="460" y="1272" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1320"
                     x2="460"
                     y2="1320"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1308" class="name"><title>C++</title>C++</text><rect x="145" y="1298" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1304"
+                r="4"
+                fill="#427819"
+            /><text x="34" y="1308" class="name"><title>make</title>make</text><rect x="145" y="1298" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-33">
                     <rect
                         x="145"
@@ -1311,16 +1487,21 @@
                 y="1298"
                 width="1.94"
                 height="10"
-                fill="#f34b7d"
+                fill="#427819"
                 clip-path="url(#language-bar-clip-33)"
-            /><text x="325" y="1308" class="muted">1.2%</text><text x="460" y="1308" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1308" class="name">1.2%</text><text x="460" y="1308" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1356"
                     x2="460"
                     y2="1356"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1344" class="name"><title>Haskell</title>Haskell</text><rect x="145" y="1334" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1340"
+                r="4"
+                fill="#384d54"
+            /><text x="34" y="1344" class="name"><title>Dockerfile</title>Dockerfile</text><rect x="145" y="1334" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-34">
                     <rect
                         x="145"
@@ -1336,16 +1517,21 @@
                 y="1334"
                 width="1.94"
                 height="10"
-                fill="#5e5086"
+                fill="#384d54"
                 clip-path="url(#language-bar-clip-34)"
-            /><text x="325" y="1344" class="muted">1.2%</text><text x="460" y="1344" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1344" class="name">1.2%</text><text x="460" y="1344" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1392"
                     x2="460"
                     y2="1392"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1380" class="name"><title>make</title>make</text><rect x="145" y="1370" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1376"
+                r="4"
+                fill="#5e5086"
+            /><text x="34" y="1380" class="name"><title>Haskell</title>Haskell</text><rect x="145" y="1370" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-35">
                     <rect
                         x="145"
@@ -1361,16 +1547,21 @@
                 y="1370"
                 width="1.94"
                 height="10"
-                fill="#427819"
+                fill="#5e5086"
                 clip-path="url(#language-bar-clip-35)"
-            /><text x="325" y="1380" class="muted">1.2%</text><text x="460" y="1380" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1380" class="name">1.2%</text><text x="460" y="1380" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1428"
                     x2="460"
                     y2="1428"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1416" class="name"><title>zsh</title>zsh</text><rect x="145" y="1406" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1412"
+                r="4"
+                fill="#178600"
+            /><text x="34" y="1416" class="name"><title>C#</title>C#</text><rect x="145" y="1406" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-36">
                     <rect
                         x="145"
@@ -1386,16 +1577,21 @@
                 y="1406"
                 width="1.94"
                 height="10"
-                fill="#D97706"
+                fill="#178600"
                 clip-path="url(#language-bar-clip-36)"
-            /><text x="325" y="1416" class="muted">1.2%</text><text x="460" y="1416" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1416" class="name">1.2%</text><text x="460" y="1416" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1464"
                     x2="460"
                     y2="1464"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1452" class="name"><title>C#</title>C#</text><rect x="145" y="1442" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1448"
+                r="4"
+                fill="#74283c"
+            /><text x="34" y="1452" class="name"><title>Prolog</title>Prolog</text><rect x="145" y="1442" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-37">
                     <rect
                         x="145"
@@ -1411,16 +1607,21 @@
                 y="1442"
                 width="1.94"
                 height="10"
-                fill="#178600"
+                fill="#74283c"
                 clip-path="url(#language-bar-clip-37)"
-            /><text x="325" y="1452" class="muted">1.2%</text><text x="460" y="1452" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1452" class="name">1.2%</text><text x="460" y="1452" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1500"
                     x2="460"
                     y2="1500"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1488" class="name"><title>PHP</title>PHP</text><rect x="145" y="1478" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1484"
+                r="4"
+                fill="#1e4aec"
+            /><text x="34" y="1488" class="name"><title>Scheme</title>Scheme</text><rect x="145" y="1478" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-38">
                     <rect
                         x="145"
@@ -1436,16 +1637,21 @@
                 y="1478"
                 width="1.94"
                 height="10"
-                fill="#4F5D95"
+                fill="#1e4aec"
                 clip-path="url(#language-bar-clip-38)"
-            /><text x="325" y="1488" class="muted">1.2%</text><text x="460" y="1488" text-anchor="end" class="muted">2 lines</text><line
+            /><text x="325" y="1488" class="name">1.2%</text><text x="460" y="1488" text-anchor="end" class="muted">2 lines</text><line
                     x1="20"
                     y1="1536"
                     x2="460"
                     y2="1536"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1524" class="name"><title>MATLAB</title>MATLAB</text><rect x="145" y="1514" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1520"
+                r="4"
+                fill="#c30e9b"
+            /><text x="34" y="1524" class="name"><title>awk</title>awk</text><rect x="145" y="1514" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-39">
                     <rect
                         x="145"
@@ -1461,16 +1667,21 @@
                 y="1514"
                 width="0.97"
                 height="10"
-                fill="#e16737"
+                fill="#c30e9b"
                 clip-path="url(#language-bar-clip-39)"
-            /><text x="325" y="1524" class="muted">0.6%</text><text x="460" y="1524" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1524" class="name">0.6%</text><text x="460" y="1524" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="1572"
                     x2="460"
                     y2="1572"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1560" class="name"><title>Perl</title>Perl</text><rect x="145" y="1550" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1556"
+                r="4"
+                fill="#F05138"
+            /><text x="34" y="1560" class="name"><title>Swift</title>Swift</text><rect x="145" y="1550" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-40">
                     <rect
                         x="145"
@@ -1486,16 +1697,21 @@
                 y="1550"
                 width="0.97"
                 height="10"
-                fill="#0298c3"
+                fill="#F05138"
                 clip-path="url(#language-bar-clip-40)"
-            /><text x="325" y="1560" class="muted">0.6%</text><text x="460" y="1560" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1560" class="name">0.6%</text><text x="460" y="1560" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="1608"
                     x2="460"
                     y2="1608"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1596" class="name"><title>F#</title>F#</text><rect x="145" y="1586" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1592"
+                r="4"
+                fill="#ffc200"
+            /><text x="34" y="1596" class="name"><title>Nim</title>Nim</text><rect x="145" y="1586" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-41">
                     <rect
                         x="145"
@@ -1511,16 +1727,21 @@
                 y="1586"
                 width="0.97"
                 height="10"
-                fill="#b845fc"
+                fill="#ffc200"
                 clip-path="url(#language-bar-clip-41)"
-            /><text x="325" y="1596" class="muted">0.6%</text><text x="460" y="1596" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1596" class="name">0.6%</text><text x="460" y="1596" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="1644"
                     x2="460"
                     y2="1644"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1632" class="name"><title>Raku</title>Raku</text><rect x="145" y="1622" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1628"
+                r="4"
+                fill="#00B4AB"
+            /><text x="34" y="1632" class="name"><title>Dart</title>Dart</text><rect x="145" y="1622" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-42">
                     <rect
                         x="145"
@@ -1536,16 +1757,21 @@
                 y="1622"
                 width="0.97"
                 height="10"
-                fill="#885AEA"
+                fill="#00B4AB"
                 clip-path="url(#language-bar-clip-42)"
-            /><text x="325" y="1632" class="muted">0.6%</text><text x="460" y="1632" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1632" class="name">0.6%</text><text x="460" y="1632" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="1680"
                     x2="460"
                     y2="1680"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1668" class="name"><title>Vala</title>Vala</text><rect x="145" y="1658" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1664"
+                r="4"
+                fill="#b845fc"
+            /><text x="34" y="1668" class="name"><title>F# Script</title>F# Script</text><rect x="145" y="1658" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-43">
                     <rect
                         x="145"
@@ -1561,16 +1787,21 @@
                 y="1658"
                 width="0.97"
                 height="10"
-                fill="#a56de2"
+                fill="#b845fc"
                 clip-path="url(#language-bar-clip-43)"
-            /><text x="325" y="1668" class="muted">0.6%</text><text x="460" y="1668" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1668" class="name">0.6%</text><text x="460" y="1668" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="1716"
                     x2="460"
                     y2="1716"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1704" class="name"><title>ERB</title>ERB</text><rect x="145" y="1694" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1700"
+                r="4"
+                fill="#ef7a08"
+            /><text x="34" y="1704" class="name"><title>OCaml</title>OCaml</text><rect x="145" y="1694" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-44">
                     <rect
                         x="145"
@@ -1586,16 +1817,21 @@
                 y="1694"
                 width="0.97"
                 height="10"
-                fill="#701516"
+                fill="#ef7a08"
                 clip-path="url(#language-bar-clip-44)"
-            /><text x="325" y="1704" class="muted">0.6%</text><text x="460" y="1704" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1704" class="name">0.6%</text><text x="460" y="1704" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="1752"
                     x2="460"
                     y2="1752"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1740" class="name"><title>Kotlin</title>Kotlin</text><rect x="145" y="1730" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1736"
+                r="4"
+                fill="#a56de2"
+            /><text x="34" y="1740" class="name"><title>Vala</title>Vala</text><rect x="145" y="1730" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-45">
                     <rect
                         x="145"
@@ -1611,16 +1847,21 @@
                 y="1730"
                 width="0.97"
                 height="10"
-                fill="#A97BFF"
+                fill="#a56de2"
                 clip-path="url(#language-bar-clip-45)"
-            /><text x="325" y="1740" class="muted">0.6%</text><text x="460" y="1740" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1740" class="name">0.6%</text><text x="460" y="1740" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="1788"
                     x2="460"
                     y2="1788"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1776" class="name"><title>Scala</title>Scala</text><rect x="145" y="1766" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1772"
+                r="4"
+                fill="#e16737"
+            /><text x="34" y="1776" class="name"><title>MATLAB</title>MATLAB</text><rect x="145" y="1766" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-46">
                     <rect
                         x="145"
@@ -1636,16 +1877,21 @@
                 y="1766"
                 width="0.97"
                 height="10"
-                fill="#c22d40"
+                fill="#e16737"
                 clip-path="url(#language-bar-clip-46)"
-            /><text x="325" y="1776" class="muted">0.6%</text><text x="460" y="1776" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1776" class="name">0.6%</text><text x="460" y="1776" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="1824"
                     x2="460"
                     y2="1824"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1812" class="name"><title>Elixir Script</title>Elixir Script</text><rect x="145" y="1802" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1808"
+                r="4"
+                fill="#b845fc"
+            /><text x="34" y="1812" class="name"><title>F#</title>F#</text><rect x="145" y="1802" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-47">
                     <rect
                         x="145"
@@ -1661,16 +1907,21 @@
                 y="1802"
                 width="0.97"
                 height="10"
-                fill="#8847B9"
+                fill="#b845fc"
                 clip-path="url(#language-bar-clip-47)"
-            /><text x="325" y="1812" class="muted">0.6%</text><text x="460" y="1812" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1812" class="name">0.6%</text><text x="460" y="1812" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="1860"
                     x2="460"
                     y2="1860"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1848" class="name"><title>CoffeeScript</title>CoffeeScript</text><rect x="145" y="1838" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1844"
+                r="4"
+                fill="#885AEA"
+            /><text x="34" y="1848" class="name"><title>Raku</title>Raku</text><rect x="145" y="1838" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-48">
                     <rect
                         x="145"
@@ -1686,16 +1937,21 @@
                 y="1838"
                 width="0.97"
                 height="10"
-                fill="#244776"
+                fill="#885AEA"
                 clip-path="url(#language-bar-clip-48)"
-            /><text x="325" y="1848" class="muted">0.6%</text><text x="460" y="1848" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1848" class="name">0.6%</text><text x="460" y="1848" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="1896"
                     x2="460"
                     y2="1896"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1884" class="name"><title>APL</title>APL</text><rect x="145" y="1874" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1880"
+                r="4"
+                fill="#4298b8"
+            /><text x="34" y="1884" class="name"><title>Groovy</title>Groovy</text><rect x="145" y="1874" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-49">
                     <rect
                         x="145"
@@ -1711,16 +1967,21 @@
                 y="1874"
                 width="0.97"
                 height="10"
-                fill="#5A8164"
+                fill="#4298b8"
                 clip-path="url(#language-bar-clip-49)"
-            /><text x="325" y="1884" class="muted">0.6%</text><text x="460" y="1884" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1884" class="name">0.6%</text><text x="460" y="1884" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="1932"
                     x2="460"
                     y2="1932"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1920" class="name"><title>Clojure</title>Clojure</text><rect x="145" y="1910" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1916"
+                r="4"
+                fill="#3fb68b"
+            /><text x="34" y="1920" class="name"><title>Lisp</title>Lisp</text><rect x="145" y="1910" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-50">
                     <rect
                         x="145"
@@ -1736,16 +1997,21 @@
                 y="1910"
                 width="0.97"
                 height="10"
-                fill="#db5855"
+                fill="#3fb68b"
                 clip-path="url(#language-bar-clip-50)"
-            /><text x="325" y="1920" class="muted">0.6%</text><text x="460" y="1920" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1920" class="name">0.6%</text><text x="460" y="1920" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="1968"
                     x2="460"
                     y2="1968"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1956" class="name"><title>Dart</title>Dart</text><rect x="145" y="1946" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1952"
+                r="4"
+                fill="#dea584"
+            /><text x="34" y="1956" class="name"><title>Rust</title>Rust</text><rect x="145" y="1946" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-51">
                     <rect
                         x="145"
@@ -1761,16 +2027,21 @@
                 y="1946"
                 width="0.97"
                 height="10"
-                fill="#00B4AB"
+                fill="#dea584"
                 clip-path="url(#language-bar-clip-51)"
-            /><text x="325" y="1956" class="muted">0.6%</text><text x="460" y="1956" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1956" class="name">0.6%</text><text x="460" y="1956" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2004"
                     x2="460"
                     y2="2004"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="1992" class="name"><title>Brainfuck</title>Brainfuck</text><rect x="145" y="1982" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="1988"
+                r="4"
+                fill="#f1e05a"
+            /><text x="34" y="1992" class="name"><title>JavaScript</title>JavaScript</text><rect x="145" y="1982" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-52">
                     <rect
                         x="145"
@@ -1786,16 +2057,21 @@
                 y="1982"
                 width="0.97"
                 height="10"
-                fill="#2F2530"
+                fill="#f1e05a"
                 clip-path="url(#language-bar-clip-52)"
-            /><text x="325" y="1992" class="muted">0.6%</text><text x="460" y="1992" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="1992" class="name">0.6%</text><text x="460" y="1992" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2040"
                     x2="460"
                     y2="2040"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2028" class="name"><title>PowerShell</title>PowerShell</text><rect x="145" y="2018" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2024"
+                r="4"
+                fill="#e38c00"
+            /><text x="34" y="2028" class="name"><title>SQL</title>SQL</text><rect x="145" y="2018" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-53">
                     <rect
                         x="145"
@@ -1811,16 +2087,21 @@
                 y="2018"
                 width="0.97"
                 height="10"
-                fill="#012456"
+                fill="#e38c00"
                 clip-path="url(#language-bar-clip-53)"
-            /><text x="325" y="2028" class="muted">0.6%</text><text x="460" y="2028" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2028" class="name">0.6%</text><text x="460" y="2028" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2076"
                     x2="460"
                     y2="2076"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2064" class="name"><title>awk</title>awk</text><rect x="145" y="2054" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2060"
+                r="4"
+                fill="#d90e09"
+            /><text x="34" y="2064" class="name"><title>Rexx</title>Rexx</text><rect x="145" y="2054" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-54">
                     <rect
                         x="145"
@@ -1836,16 +2117,21 @@
                 y="2054"
                 width="0.97"
                 height="10"
-                fill="#c30e9b"
+                fill="#d90e09"
                 clip-path="url(#language-bar-clip-54)"
-            /><text x="325" y="2064" class="muted">0.6%</text><text x="460" y="2064" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2064" class="name">0.6%</text><text x="460" y="2064" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2112"
                     x2="460"
                     y2="2112"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2100" class="name"><title>OCaml</title>OCaml</text><rect x="145" y="2090" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2096"
+                r="4"
+                fill="#2F2530"
+            /><text x="34" y="2100" class="name"><title>Brainfuck</title>Brainfuck</text><rect x="145" y="2090" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-55">
                     <rect
                         x="145"
@@ -1861,16 +2147,21 @@
                 y="2090"
                 width="0.97"
                 height="10"
-                fill="#ef7a08"
+                fill="#2F2530"
                 clip-path="url(#language-bar-clip-55)"
-            /><text x="325" y="2100" class="muted">0.6%</text><text x="460" y="2100" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2100" class="name">0.6%</text><text x="460" y="2100" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2148"
                     x2="460"
                     y2="2148"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2136" class="name"><title>JavaScript</title>JavaScript</text><rect x="145" y="2126" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2132"
+                r="4"
+                fill="#0298c3"
+            /><text x="34" y="2136" class="name"><title>Perl</title>Perl</text><rect x="145" y="2126" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-56">
                     <rect
                         x="145"
@@ -1886,16 +2177,21 @@
                 y="2126"
                 width="0.97"
                 height="10"
-                fill="#f1e05a"
+                fill="#0298c3"
                 clip-path="url(#language-bar-clip-56)"
-            /><text x="325" y="2136" class="muted">0.6%</text><text x="460" y="2136" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2136" class="name">0.6%</text><text x="460" y="2136" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2184"
                     x2="460"
                     y2="2184"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2172" class="name"><title>R</title>R</text><rect x="145" y="2162" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2168"
+                r="4"
+                fill="#db5855"
+            /><text x="34" y="2172" class="name"><title>Clojure</title>Clojure</text><rect x="145" y="2162" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-57">
                     <rect
                         x="145"
@@ -1911,16 +2207,21 @@
                 y="2162"
                 width="0.97"
                 height="10"
-                fill="#198ce7"
+                fill="#db5855"
                 clip-path="url(#language-bar-clip-57)"
-            /><text x="325" y="2172" class="muted">0.6%</text><text x="460" y="2172" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2172" class="name">0.6%</text><text x="460" y="2172" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2220"
                     x2="460"
                     y2="2220"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2208" class="name"><title>Rust</title>Rust</text><rect x="145" y="2198" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2204"
+                r="4"
+                fill="#A97BFF"
+            /><text x="34" y="2208" class="name"><title>Kotlin</title>Kotlin</text><rect x="145" y="2198" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-58">
                     <rect
                         x="145"
@@ -1936,16 +2237,21 @@
                 y="2198"
                 width="0.97"
                 height="10"
-                fill="#dea584"
+                fill="#A97BFF"
                 clip-path="url(#language-bar-clip-58)"
-            /><text x="325" y="2208" class="muted">0.6%</text><text x="460" y="2208" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2208" class="name">0.6%</text><text x="460" y="2208" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2256"
                     x2="460"
                     y2="2256"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2244" class="name"><title>Lisp</title>Lisp</text><rect x="145" y="2234" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2240"
+                r="4"
+                fill="#e4cc98"
+            /><text x="34" y="2244" class="name"><title>Tcl/Tk</title>Tcl/Tk</text><rect x="145" y="2234" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-59">
                     <rect
                         x="145"
@@ -1961,16 +2267,21 @@
                 y="2234"
                 width="0.97"
                 height="10"
-                fill="#3fb68b"
+                fill="#e4cc98"
                 clip-path="url(#language-bar-clip-59)"
-            /><text x="325" y="2244" class="muted">0.6%</text><text x="460" y="2244" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2244" class="name">0.6%</text><text x="460" y="2244" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2292"
                     x2="460"
                     y2="2292"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2280" class="name"><title>ReasonML</title>ReasonML</text><rect x="145" y="2270" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2276"
+                r="4"
+                fill="#198ce7"
+            /><text x="34" y="2280" class="name"><title>R</title>R</text><rect x="145" y="2270" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-60">
                     <rect
                         x="145"
@@ -1986,16 +2297,21 @@
                 y="2270"
                 width="0.97"
                 height="10"
-                fill="#ff5847"
+                fill="#198ce7"
                 clip-path="url(#language-bar-clip-60)"
-            /><text x="325" y="2280" class="muted">0.6%</text><text x="460" y="2280" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2280" class="name">0.6%</text><text x="460" y="2280" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2328"
                     x2="460"
                     y2="2328"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2316" class="name"><title>Tcl/Tk</title>Tcl/Tk</text><rect x="145" y="2306" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2312"
+                r="4"
+                fill="#012456"
+            /><text x="34" y="2316" class="name"><title>PowerShell</title>PowerShell</text><rect x="145" y="2306" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-61">
                     <rect
                         x="145"
@@ -2011,16 +2327,21 @@
                 y="2306"
                 width="0.97"
                 height="10"
-                fill="#e4cc98"
+                fill="#012456"
                 clip-path="url(#language-bar-clip-61)"
-            /><text x="325" y="2316" class="muted">0.6%</text><text x="460" y="2316" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2316" class="name">0.6%</text><text x="460" y="2316" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2364"
                     x2="460"
                     y2="2364"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2352" class="name"><title>Rexx</title>Rexx</text><rect x="145" y="2342" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2348"
+                r="4"
+                fill="#5A8164"
+            /><text x="34" y="2352" class="name"><title>APL</title>APL</text><rect x="145" y="2342" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-62">
                     <rect
                         x="145"
@@ -2036,16 +2357,21 @@
                 y="2342"
                 width="0.97"
                 height="10"
-                fill="#d90e09"
+                fill="#5A8164"
                 clip-path="url(#language-bar-clip-62)"
-            /><text x="325" y="2352" class="muted">0.6%</text><text x="460" y="2352" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2352" class="name">0.6%</text><text x="460" y="2352" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2400"
                     x2="460"
                     y2="2400"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2388" class="name"><title>Swift</title>Swift</text><rect x="145" y="2378" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2384"
+                r="4"
+                fill="#b2b7f8"
+            /><text x="34" y="2388" class="name"><title>Verilog-SystemVerilog</title>Verilog-SystemVe…</text><rect x="145" y="2378" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-63">
                     <rect
                         x="145"
@@ -2061,16 +2387,21 @@
                 y="2378"
                 width="0.97"
                 height="10"
-                fill="#F05138"
+                fill="#b2b7f8"
                 clip-path="url(#language-bar-clip-63)"
-            /><text x="325" y="2388" class="muted">0.6%</text><text x="460" y="2388" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2388" class="name">0.6%</text><text x="460" y="2388" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2436"
                     x2="460"
                     y2="2436"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2424" class="name"><title>Smalltalk</title>Smalltalk</text><rect x="145" y="2414" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2420"
+                r="4"
+                fill="#596706"
+            /><text x="34" y="2424" class="name"><title>Smalltalk</title>Smalltalk</text><rect x="145" y="2414" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-64">
                     <rect
                         x="145"
@@ -2088,14 +2419,19 @@
                 height="10"
                 fill="#596706"
                 clip-path="url(#language-bar-clip-64)"
-            /><text x="325" y="2424" class="muted">0.6%</text><text x="460" y="2424" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2424" class="name">0.6%</text><text x="460" y="2424" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2472"
                     x2="460"
                     y2="2472"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2460" class="name"><title>Groovy</title>Groovy</text><rect x="145" y="2450" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2456"
+                r="4"
+                fill="#ff5847"
+            /><text x="34" y="2460" class="name"><title>ReasonML</title>ReasonML</text><rect x="145" y="2450" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-65">
                     <rect
                         x="145"
@@ -2111,16 +2447,21 @@
                 y="2450"
                 width="0.97"
                 height="10"
-                fill="#4298b8"
+                fill="#ff5847"
                 clip-path="url(#language-bar-clip-65)"
-            /><text x="325" y="2460" class="muted">0.6%</text><text x="460" y="2460" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2460" class="name">0.6%</text><text x="460" y="2460" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2508"
                     x2="460"
                     y2="2508"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2496" class="name"><title>F# Script</title>F# Script</text><rect x="145" y="2486" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2492"
+                r="4"
+                fill="#8847B9"
+            /><text x="34" y="2496" class="name"><title>Elixir Script</title>Elixir Script</text><rect x="145" y="2486" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-66">
                     <rect
                         x="145"
@@ -2136,16 +2477,21 @@
                 y="2486"
                 width="0.97"
                 height="10"
-                fill="#b845fc"
+                fill="#8847B9"
                 clip-path="url(#language-bar-clip-66)"
-            /><text x="325" y="2496" class="muted">0.6%</text><text x="460" y="2496" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2496" class="name">0.6%</text><text x="460" y="2496" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2544"
                     x2="460"
                     y2="2544"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2532" class="name"><title>Nim</title>Nim</text><rect x="145" y="2522" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2528"
+                r="4"
+                fill="#a270ba"
+            /><text x="34" y="2532" class="name"><title>Julia</title>Julia</text><rect x="145" y="2522" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-67">
                     <rect
                         x="145"
@@ -2161,16 +2507,21 @@
                 y="2522"
                 width="0.97"
                 height="10"
-                fill="#ffc200"
+                fill="#a270ba"
                 clip-path="url(#language-bar-clip-67)"
-            /><text x="325" y="2532" class="muted">0.6%</text><text x="460" y="2532" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2532" class="name">0.6%</text><text x="460" y="2532" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2580"
                     x2="460"
                     y2="2580"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2568" class="name"><title>SQL</title>SQL</text><rect x="145" y="2558" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2564"
+                r="4"
+                fill="#244776"
+            /><text x="34" y="2568" class="name"><title>CoffeeScript</title>CoffeeScript</text><rect x="145" y="2558" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-68">
                     <rect
                         x="145"
@@ -2186,16 +2537,21 @@
                 y="2558"
                 width="0.97"
                 height="10"
-                fill="#e38c00"
+                fill="#244776"
                 clip-path="url(#language-bar-clip-68)"
-            /><text x="325" y="2568" class="muted">0.6%</text><text x="460" y="2568" text-anchor="end" class="muted">1 lines</text><line
+            /><text x="325" y="2568" class="name">0.6%</text><text x="460" y="2568" text-anchor="end" class="muted">1 lines</text><line
                     x1="20"
                     y1="2616"
                     x2="460"
                     y2="2616"
                     stroke="#21262d"
                     stroke-width="1"
-                /><text x="20" y="2604" class="name"><title>Verilog-SystemVerilog</title>Verilog-SystemVe…</text><rect x="145" y="2594" width="165" height="10" rx="5" class="track"/><defs>
+                /><circle
+                cx="24"
+                cy="2600"
+                r="4"
+                fill="#701516"
+            /><text x="34" y="2604" class="name"><title>ERB</title>ERB</text><rect x="145" y="2594" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-69">
                     <rect
                         x="145"
@@ -2211,9 +2567,14 @@
                 y="2594"
                 width="0.97"
                 height="10"
-                fill="#b2b7f8"
+                fill="#701516"
                 clip-path="url(#language-bar-clip-69)"
-            /><text x="325" y="2604" class="muted">0.6%</text><text x="460" y="2604" text-anchor="end" class="muted">1 lines</text><text x="20" y="2640" class="name"><title>Julia</title>Julia</text><rect x="145" y="2630" width="165" height="10" rx="5" class="track"/><defs>
+            /><text x="325" y="2604" class="name">0.6%</text><text x="460" y="2604" text-anchor="end" class="muted">1 lines</text><circle
+                cx="24"
+                cy="2636"
+                r="4"
+                fill="#c22d40"
+            /><text x="34" y="2640" class="name"><title>Scala</title>Scala</text><rect x="145" y="2630" width="165" height="10" rx="5" class="track"/><defs>
                 <clipPath id="language-bar-clip-70">
                     <rect
                         x="145"
@@ -2229,6 +2590,6 @@
                 y="2630"
                 width="0.97"
                 height="10"
-                fill="#a270ba"
+                fill="#c22d40"
                 clip-path="url(#language-bar-clip-70)"
-            /><text x="325" y="2640" class="muted">0.6%</text><text x="460" y="2640" text-anchor="end" class="muted">1 lines</text></svg>
+            /><text x="325" y="2640" class="name">0.6%</text><text x="460" y="2640" text-anchor="end" class="muted">1 lines</text></svg>
