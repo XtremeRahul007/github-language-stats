@@ -39,7 +39,7 @@ jobs:
         run: |
           cargo run --release -- \
             --input - \
-            --exclude-dir=node_modules,target,dist,build,.git,.github,.venv,venv,coverage,pkg \
+            --exclude-dir=node_modules,target,dist,build,.git,.github,.venv,venv,coverage,pkg,sample \
             --exclude-lang=JSON,Markdown,TOML,SVG \
             --output docs/language-stats.svg \
             --readme README.md \

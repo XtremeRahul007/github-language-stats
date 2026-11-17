@@ -95,7 +95,7 @@ name: Update Language Statistics
 on:
   push:
     branches:
-      - main
+      - main # Choose your branch
     paths-ignore:
       - "README.md"
       - "docs/language-stats.svg"
@@ -168,6 +168,9 @@ Check formatting and linting:
 cargo fmt --check
 cargo clippy -- -D warnings
 ```
+## Samples
+75 languages supported
+<p align="center"><img src="docs/sample.svg" alt="Language breakdown" width="480"></p>
 
 ## License
 
