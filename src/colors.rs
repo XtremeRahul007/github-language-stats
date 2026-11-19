@@ -75,6 +75,7 @@ pub fn language_color(language: &str) -> &'static str {
         "PowerShell" => "#012456",
         "awk" => "#c30e9b",
         "SQL" => "#e38c00",
+        "CSS" => "#663698",
         "Other" => "#8b949e",
         _ => "#8b949e",
     }
